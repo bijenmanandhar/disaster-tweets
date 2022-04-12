@@ -9,3 +9,4 @@ This repo consists of a simple text mining model built to identify sentiments of
 7. LSTM Models
 8. Transformer-based Model
 
+The dataset used in this project is obtained from Kaggle.
